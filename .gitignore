@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# generated report
+web_preflight_report.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# editor
+*.swp
+*~
